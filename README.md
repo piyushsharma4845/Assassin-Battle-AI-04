@@ -1,4 +1,5 @@
 # Assassin Battle - AI Powered Fighting Game
+### 🎮 [Play the Live Game Here!](https://piyushsharma4845.itch.io/assassin-battle-ai-powered-fighting-game)
 **Created by Piyush Sharma**
 
 ## 🚀 Overview
